@@ -2,6 +2,12 @@
 
 I am a PhD student in the Applied Physics II department of the University of the Basque Country (UPV/EHU). My research topic is infrared emissivity of materials, its measurement and applications.
 
+### A relevant research sample
+
+1. I. González de Arrieta, T. Echániz, R. Fuente, J.M. Campillo-Robles, J.M. Igartua, G.A. López. "Updated measurement method and uncertainty budget for direct emissivity measurements at UPV/EHU". arXiv: 1910.08315 (2019).
+2. I. González de Arrieta, T. Echániz, R. Fuente, E. Rubin, R. Chen, J.M. Igartua, M.J. Tello, G.A. López. "Infrared emissivity of copper-alloyed spinel black coatings for concentrated solar power systems". Solar Energy Materials and Solar Cells 200, 109961 (2019).
+3. T. Echániz, I. González de Arrieta, R. Fuente, I. Urcelay-Olabarria, J.M. Igartua, N. de la Pinta, W. Ran, H. Fu, J. Chen, P.F. Zheng, M.J. Tello, G.A. López. "Thermal radiative properties of electron-beam-melted and mechanically alloyed V-4Cr-4Ti based alloys between 200 and 750 °C". Journal of Nuclear Materials 513, 86-93 (2019).
+
 ### Academic social media
 
 [Researchgate](https://www.researchgate.net/profile/Inigo_Gonzalez_De_Arrieta) (my personal favorite)
