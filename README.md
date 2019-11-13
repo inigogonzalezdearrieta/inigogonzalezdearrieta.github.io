@@ -5,8 +5,11 @@ I am a PhD student in the Applied Physics II department of the University of the
 ### Academic social media
 
 [Researchgate](https://www.researchgate.net/profile/Inigo_Gonzalez_De_Arrieta) (my personal favorite)
+
 [Academia](https://metaaprendizaje.academia.edu/I%C3%B1igoGonz%C3%A1lezdeArrieta)
+
 [Google Scholar](https://scholar.google.com/citations?user=oRvyMOgAAAAJ&hl=en)
+
 LinkedIn
 
 ## Welcome to GitHub Pages
