@@ -1,3 +1,7 @@
+## About me
+
+I am a PhD student in the Applied Physics II department of the University of the Basque Country (UPV/EHU). My research topic is infrared emissivity of materials, its measurement and applications.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/inigogonzalezdearrieta/inigogonzalezdearrieta.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
