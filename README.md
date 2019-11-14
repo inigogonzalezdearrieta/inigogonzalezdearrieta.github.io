@@ -1,4 +1,4 @@
-[Profile photo]({{ site.url }}/assets/foto_perfil.jpg)
+![Profile photo]({{ site.url }}/assets/foto_perfil.jpg)
 
 ## About me
 
