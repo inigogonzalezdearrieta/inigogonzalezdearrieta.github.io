@@ -1,4 +1,4 @@
-![Profile photo]({{ site.url }}/assets/foto_perfil.jpg | width=100)
+![Profile photo]({{ site.url }}/assets/foto_perfil.jpg){:height="50%" width="50%"}
 
 ## About me
 
