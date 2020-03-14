@@ -12,13 +12,11 @@ I am a PhD student in the Applied Physics II department of the [University of th
 
 ### Academic social media
 
-[Researchgate](https://www.researchgate.net/profile/Inigo_Gonzalez_De_Arrieta) (my personal favorite)
-
-[Academia](https://metaaprendizaje.academia.edu/I%C3%B1igoGonz%C3%A1lezdeArrieta)
+[Researchgate](https://www.researchgate.net/profile/Inigo_Gonzalez_De_Arrieta)
 
 [Google Scholar](https://scholar.google.com/citations?user=oRvyMOgAAAAJ&hl=en)
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/i%C3%B1igo-gonz%C3%A1lez-de-arrieta-a89964184/)
 
 ### Memberships
 
