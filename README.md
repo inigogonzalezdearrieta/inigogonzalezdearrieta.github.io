@@ -1,5 +1,3 @@
-![Profile photo]({{ site.url }}/assets/foto_perfil.jpg){:height="50%" width="50%"}
-
 ## About me
 
 I am a PhD student in the Applied Physics II department of the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/guest/en-home). My research topic is infrared emissivity of materials, its measurement and applications. You can download my CV [here]({{ site.url }}/assets/CVA.pdf).
