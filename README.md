@@ -1,6 +1,6 @@
 ## About me
 
-I am a PhD student in the Applied Physics II department of the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/guest/en-home). My research topic is infrared emissivity of materials, its measurement and applications. You can download my abbreviated CV [here]({{ site.url }}/assets/CVA.pdf) or check the full version at [Link to another page](./another-page.html).
+I am a PhD student in the Applied Physics II department of the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/guest/en-home). My main research topic is infrared emissivity of materials, its measurement and applications. I'm also interested in broader topics of energy, condensed-matter physics, and physics education. You can download my abbreviated CV [here]({{ site.url }}/assets/CVA.pdf) or check the full version at [Link to another page](./another-page.html).
 
 ### A relevant research sample
 
