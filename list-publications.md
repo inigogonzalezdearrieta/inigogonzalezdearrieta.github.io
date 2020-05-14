@@ -37,4 +37,6 @@ Journal of Physics: Conference Series 1287, 012027 (2019).
 
 1. [Thermo-radiative and optical properties of a cutting tool based on polycrystalline cubic boron nitride (PCBN)](https://doi.org/10.1088/2053-1591/3/4/045904)
 
+You can also look up additional aspects of my CV [here](./other-cv.html).
+
 [back](./)
