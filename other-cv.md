@@ -12,7 +12,7 @@ layout: default
 
 I have reviewed manuscripts for the following journals: Measurement, European Journal of Physics, Materials Research Express.
 
-# Popular science and science outreach efforts
+## Popular science and science outreach efforts
 
 - [Dirdai berezia daukazu gaur](https://aldizkaria.elhuyar.eus/gai-librean/dirdai-berezia-daukazu-gaur/)
 - [Dysonen esferen bila](https://aldizkaria.elhuyar.eus/site_media/pdf/62-66_CAF-ELH_1_art_orokorra_Dysonen_esferen_bila.pdf)
