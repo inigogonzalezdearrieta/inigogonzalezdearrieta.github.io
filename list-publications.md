@@ -18,24 +18,23 @@ layout: default
 2. T. Echániz, I. González de Arrieta, R. Fuente, I. Urcelay-Olabarria, J.M. Igartua, N. de la Pinta, W. Ran, H. Fu, J. Chen, P.F. Zheng, M.J. Tello, G.A. López. "[Thermal radiative properties of electron-beam-melted and mechanically alloyed V-4Cr-4Ti based alloys between 200 and 750 °C](https://doi.org/10.1016/j.jnucmat.2018.10.051)". Journal of Nuclear Materials 513, 86-93 (2019).
 3. G. A. López, I. Alonso, J. Sáenz, A. Leonardo, S. J. González-Rojí, I. González de Arrieta, T. Echániz, I. Unzueta, J. Lafuente-Bartolome, N. de la Pinta, P. García-Goiricelaya, J. Martinez-Perdiguero, I. G. Gurtubay. "[Combining strategies to make General Physics lectures more attractive and to improve students’ performances](https://doi.org/10.1088/1742-6596/1287/1/012027)". 
 Journal of Physics: Conference Series 1287, 012027 (2019).
-4. Radiometría infrarroja espectral de alta precisión, de temperatura ambiente a 1100 °C
-5. I. González de Arrieta, T. Echániz, J. M. Olmos, R. Fuente, I. Urcelay-Olabarría, J. M. Igartua, M. J. Tello, G. A. López. "[Evolution of the infrared emissivity of Ni during thermal oxidation until oxide layer opacity](https://doi.org/10.1016/j.infrared.2019.01.002)".Infrared Physics & Technology 97, 270-276 (2019).
+4. I. González de Arrieta, T. Echániz, J. M. Olmos, R. Fuente, I. Urcelay-Olabarría, J. M. Igartua, M. J. Tello, G. A. López. "[Evolution of the infrared emissivity of Ni during thermal oxidation until oxide layer opacity](https://doi.org/10.1016/j.infrared.2019.01.002)".Infrared Physics & Technology 97, 270-276 (2019).
 
 
 ### 2018
 
-1. [Sensitivity of thermal emission spectroscopy for the study of structural phase transitions](https://doi.org/10.1016/j.infrared.2018.07.014).
+1. T. Echániz, I. González de Arrieta, R. Fuente, I. Urcelay-Olabarria, E. Risueño, A. Faik, G. A. López, M. J. Tello. "[Sensitivity of thermal emission spectroscopy for the study of structural phase transitions](https://doi.org/10.1016/j.infrared.2018.07.014)". Infrared Physics & Technology 93, 16-19 (2018).
 2. [Eguzki-energia termikoa metatzeko materialetako emisibitate esperimentuak](https://doi.org/10.1387/ekaia.1972).
-3. "[Effects of environmental and operational variability on the spectrally selective properties of W/WAlN/WAlON/Al2O3-based solar absorber coating](https://doi.org/10.1016/j.solmat.2018.04.020)".
+3. A. Dan, B. Basu, T. Echániz, I. González de Arrieta, G. A. López, H. C. Barshilia. "[Effects of environmental and operational variability on the spectrally selective properties of W/WAlN/WAlON/Al2O3-based solar absorber coating](https://doi.org/10.1016/j.solmat.2018.04.020)". Solar Energy Materials and Solar Cells 185, 342-350 (2018).
 
 
 ## 2017
 
-1. [Mid-infrared optical properties of pyrolytic boron nitride in the 390 - 1050 °C temperature range using spectral emissivity measurements](https://doi.org/10.1016/j.jqsrt.2017.02.016).
+1. I. González de Arrieta, T. Echániz, R. Fuente, L. del Campo, D. De Sousa Meneses, G. A. López, M. J. Tello. "[Mid-infrared optical properties of pyrolytic boron nitride in the 390 - 1050 °C temperature range using spectral emissivity measurements](https://doi.org/10.1016/j.jqsrt.2017.02.016)". Journal of Quantitative Spectroscopy and Radiative Transfer 194, 1-6 (2017).
 
 ## 2016
 
-1. [Thermo-radiative and optical properties of a cutting tool based on polycrystalline cubic boron nitride (PCBN)](https://doi.org/10.1088/2053-1591/3/4/045904)
+1.  I. González de Arrieta, T. Echániz, R. B. Pérez-Sáez, M. J. Tello. "[Thermo-radiative and optical properties of a cutting tool based on polycrystalline cubic boron nitride (PCBN)](https://doi.org/10.1088/2053-1591/3/4/045904)". Materials Research Express 3, 045904 (2016).
 
 You can also look up additional aspects of my CV [here](./other-cv.html).
 
