@@ -6,16 +6,16 @@ layout: default
 
 ### 2020
 
-1. I. González de Arrieta, T. Echániz, R. Fuente, J.M. Campillo-Robles, J.M. Igartua, G.A. López. "[Updated measurement method and uncertainty budget for direct emissivity measurements at UPV/EHU](https://doi.org/10.1088/1681-7575/ab84ff)". Accepted manuscript (2020). Pre-print available at [arXiv: 1910.08315](https://arxiv.org/abs/1910.08315) (2020).
-2. I. González de Arrieta, L. González-Fernández, E. Risueño, T. Echániz, M.J. Tello. "[Isothermal oxidation kinetics of nitrided Ti-6Al-4V studied by infrared emissivity](https://doi.org/10.1016/j.corsci.2020.108723)". Accepted manuscript (2020).
+1. I. González de Arrieta, T. Echániz, R. Fuente, J. M. Campillo-Robles, J. M. Igartua, G. A. López. "[Updated measurement method and uncertainty budget for direct emissivity measurements at UPV/EHU](https://doi.org/10.1088/1681-7575/ab84ff)". Accepted manuscript (2020). Pre-print available at [arXiv: 1910.08315](https://arxiv.org/abs/1910.08315) (2020).
+2. I. González de Arrieta, L. González-Fernández, E. Risueño, T. Echániz, M. J. Tello. "[Isothermal oxidation kinetics of nitrided Ti-6Al-4V studied by infrared emissivity](https://doi.org/10.1016/j.corsci.2020.108723)". Accepted manuscript (2020).
 3. R. Fuente, T. Echániz, I. González de Arrieta, I. Urcelay-Olabarria, J. M. Igartua, M. J. Tello, G. A. López. "[High accuracy infrared emissivity between 50 and 1000 ᵒC for solar materials characterization](https://doi.org/10.1051/matecconf/202030701043)".  MATEC Web of Conferences 307, 01043 (2020). International Conference on Materials & Energy (ICOME’17 and ICOME’18) 
 4. R. Fuente, T. Echániz, I. González de Arrieta, I. Urcelay-Olabarria, M. J. Tello, G. A. López. "[c-Si PV cells emissivity characterization at low operating temperatures for efficiency management](https://doi.org/10.1051/matecconf/202030701044)". MATEC Web of Conferences 307, 01044 (2020). International Conference on Materials & Energy (ICOME’17 and ICOME’18) 
 
 
 ### 2019
 
-1. I. González de Arrieta, T. Echániz, R. Fuente, E. Rubin, R. Chen, J.M. Igartua, M.J. Tello, G.A. López. "[Infrared emissivity of copper-alloyed spinel black coatings for concentrated solar power systems](https://doi.org/10.1016/j.solmat.2019.109961)". Solar Energy Materials and Solar Cells 200, 109961 (2019).
-2. T. Echániz, I. González de Arrieta, R. Fuente, I. Urcelay-Olabarria, J.M. Igartua, N. de la Pinta, W. Ran, H. Fu, J. Chen, P.F. Zheng, M.J. Tello, G.A. López. "[Thermal radiative properties of electron-beam-melted and mechanically alloyed V-4Cr-4Ti based alloys between 200 and 750 °C](https://doi.org/10.1016/j.jnucmat.2018.10.051)". Journal of Nuclear Materials 513, 86-93 (2019).
+1. I. González de Arrieta, T. Echániz, R. Fuente, E. Rubin, R. Chen, J. M. Igartua, M. J. Tello, G. A. López. "[Infrared emissivity of copper-alloyed spinel black coatings for concentrated solar power systems](https://doi.org/10.1016/j.solmat.2019.109961)". Solar Energy Materials and Solar Cells 200, 109961 (2019).
+2. T. Echániz, I. González de Arrieta, R. Fuente, I. Urcelay-Olabarria, J. M. Igartua, N. de la Pinta, W. Ran, H. Fu, J. Chen, P. F. Zheng, M. J. Tello, G. A. López. "[Thermal radiative properties of electron-beam-melted and mechanically alloyed V-4Cr-4Ti based alloys between 200 and 750 °C](https://doi.org/10.1016/j.jnucmat.2018.10.051)". Journal of Nuclear Materials 513, 86-93 (2019).
 3. G. A. López, I. Alonso, J. Sáenz, A. Leonardo, S. J. González-Rojí, I. González de Arrieta, T. Echániz, I. Unzueta, J. Lafuente-Bartolome, N. de la Pinta, P. García-Goiricelaya, J. Martinez-Perdiguero, I. G. Gurtubay. "[Combining strategies to make General Physics lectures more attractive and to improve students’ performances](https://doi.org/10.1088/1742-6596/1287/1/012027)". 
 Journal of Physics: Conference Series 1287, 012027 (2019).
 4. I. González de Arrieta, T. Echániz, J. M. Olmos, R. Fuente, I. Urcelay-Olabarría, J. M. Igartua, M. J. Tello, G. A. López. "[Evolution of the infrared emissivity of Ni during thermal oxidation until oxide layer opacity](https://doi.org/10.1016/j.infrared.2019.01.002)".Infrared Physics & Technology 97, 270-276 (2019).
