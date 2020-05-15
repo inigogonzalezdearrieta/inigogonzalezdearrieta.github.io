@@ -14,7 +14,7 @@ I am a PhD student in the Applied Physics II department of the [University of th
 
 [Google Scholar](https://scholar.google.com/citations?user=oRvyMOgAAAAJ&hl=en)
 
-[LinkedIn](https://www.linkedin.com/in/i%C3%B1igo-gonz%C3%A1lez-de-arrieta-a89964184/)
+[LinkedIn](https://www.linkedin.com/in/inigo-gonzalez-de-arrieta/)
 
 ### Memberships
 
