@@ -15,7 +15,3 @@ I am a PhD student in the Applied Physics II department of the [University of th
 [Google Scholar](https://scholar.google.com/citations?user=oRvyMOgAAAAJ&hl=en)
 
 [LinkedIn](https://www.linkedin.com/in/inigo-gonzalez-de-arrieta/)
-
-### Memberships
-
-Senior student member of the [Spanish Royal Physics Society (RSEF)](https://rsef.es/).
