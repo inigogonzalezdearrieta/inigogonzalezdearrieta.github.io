@@ -6,11 +6,12 @@ layout: default
 
 ### Memberships
 
-- Senior student member at the Spanish Royal Physics Society.
+- Senior student member at the Spanish Royal Physics Society [RSEF](https://rsef.es/).
+- Member of the Spanish Materials Society [SOCIEMAT](https://sociemat.es/).
 
 ### Reviewer
 
-I have reviewed manuscripts for the following journals: Measurement, European Journal of Physics, Materials Research Express.
+I have reviewed manuscripts for the following journals: Measurement, European Journal of Physics, Materials Research Express, International Journal of Applied Glass Science.
 
 ### Popular science and science outreach efforts
 
