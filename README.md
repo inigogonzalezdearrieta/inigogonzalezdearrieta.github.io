@@ -1,6 +1,6 @@
 ## About me
 
-I am a PhD student in the Applied Physics II department of the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/guest/en-home). My main research topic is infrared emissivity of materials, its measurement and applications. I'm also interested in broader topics of energy, condensed-matter physics, and physics education. You can download my [resume]({{ site.url }}/assets/CV-Europass-20200511-GonzálezDeArrieta-EN.pdf), my [abbreviated official CV]({{ site.url }}/assets/CVA.pdf) or check the full list of publications [here](./list-publications.md). Other aspects of my CV can be found [here](./other-cv.md).
+I am a PhD student in the Applied Physics II department of the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/guest/en-home). My main research topic is infrared emissivity of materials, its measurement and applications. I'm also interested in broader topics of energy, condensed-matter physics, and physics education. You can check my full list of publications [here](./list-publications.html) or an outline of my CV [here](./cv-outline.html).
 
 ### A relevant research sample
 
