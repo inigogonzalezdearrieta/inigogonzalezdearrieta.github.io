@@ -13,4 +13,4 @@ In addition to the applied side of emissivity measurements, I find the more fund
 
 As side projects to my main research-related topics, I am also very interested in educational projects concerning [new teaching methodologies](https://doi.org/10.1088/1742-6596/1287/1/012027). Moreover, I am an active reviewer for the European Journal of Physics and plan on releasing a couple of articles on the topic of Planck's law and the way it is taught.
 
-[back](./)
+[back](./cv-outline.html)
