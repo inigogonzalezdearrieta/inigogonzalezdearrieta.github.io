@@ -22,4 +22,4 @@ I have reviewed manuscripts for the following journals: Measurement, European Jo
 
 - Best Science Communication Article [CAF Elhuyar 2019](https://www.elhuyar.eus/en/site/projects/caf-elhuyar-en/prize-winners).
 
-[back](./)
+[back](./cv-outline.html)
