@@ -1,6 +1,6 @@
 ## About me
 
-I am a PhD student in the Applied Physics II department of the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/guest/en-home). My main research topic is infrared emissivity of materials, its measurement and applications. I'm also interested in broader topics of energy, condensed-matter physics, and physics education. You can check my abbreviated CV [in PDF form](./assets/CVA_July2020.pdf) or an outline of my CV [here](./cv-outline.html).
+I am a postdoc researcher at the [CEMHTI laboratory](https://www.cemhti.cnrs-orleans.fr/default.aspx) at CNRS Orléans. I previously worked as a PhD candidate for the Applied Physics II department of the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/guest/en-home). My main research topics are infrared emissivity and spectroscopy, their measurement and applications. I'm also interested in broader topics of energy, applied physics, and physics education. You can check my abbreviated CV [in PDF form](./assets/CVA_July2020.pdf) or an outline of my CV [here](./cv-outline.html).
 
 ### A relevant research sample
 
