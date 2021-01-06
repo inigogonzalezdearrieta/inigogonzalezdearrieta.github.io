@@ -6,8 +6,9 @@ layout: default
 
 ### Memberships
 
-- Senior student member at the [Spanish Royal Physics Society (RSEF)](https://rsef.es/).
+- Member of the [Spanish Royal Physics Society (RSEF)](https://rsef.es/).
 - Member of the [Spanish Materials Society (SOCIEMAT)](https://sociemat.es/).
+- Member of the [Spanish Optical Society (SEDOPTICA)](https://www.sedoptica.es/)
 
 ### Reviewer
 
