@@ -4,6 +4,10 @@ layout: default
 
 ## List of publications
 
+### 2021
+
+1. T. Echániz, I. González de Arrieta, A. Gil-Muñoz, J. Fernández-Pereda, R. Fuente, M. Klimenkov, G. A. López. "[Infrared emissivity of reduced-activation Eurofer 97 for fusion reactor applications](https://doi.org/10.1016/j.jnucmat.2021.152907)". Journal of Nuclear Materials, in press (2021).
+
 ### 2020
 
 1. I. González de Arrieta, T. Echániz, R. Fuente, J. M. Campillo-Robles, J. M. Igartua, G. A. López. "[Updated measurement method and uncertainty budget for direct emissivity measurements at UPV/EHU](https://doi.org/10.1088/1681-7575/ab84ff)". Metrologia 57, 045002 (2020). Pre-print available at [arXiv: 1910.08315](https://arxiv.org/abs/1910.08315).
