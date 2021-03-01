@@ -39,4 +39,4 @@ layout: default
 
 1.  I. González de Arrieta, T. Echániz, R. B. Pérez-Sáez, M. J. Tello. "[Thermo-radiative and optical properties of a cutting tool based on polycrystalline cubic boron nitride (PCBN)](https://doi.org/10.1088/2053-1591/3/4/045904)". Materials Research Express 3, 045904 (2016).
 
-[back](./cv-outline.html)
+[back](./README.md)
