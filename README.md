@@ -2,7 +2,7 @@
 
 I am a postdoc researcher at the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/guest/en-home), staying as a visitor researcher at [CEMHTI laboratory](https://www.cemhti.cnrs-orleans.fr/default.aspx) at CNRS Orléans. My main research topics are infrared emissivity and spectroscopy, their measurement and applications. I'm also interested in broader topics of energy, applied physics, and physics education.
 
-## CV outline
+### CV outline
 
 - [Full list of scientific publications](./list-publications.md).
 - [Additional aspects of my CV](./other-cv.html).
