@@ -6,11 +6,12 @@ layout: default
 
 ### 2021
 
-1. T. Echániz, I. González de Arrieta, A. Gil-Muñoz, J. Fernández-Pereda, R. Fuente, M. Klimenkov, G. A. López. "[Infrared emissivity of reduced-activation Eurofer 97 for fusion reactor applications](https://doi.org/10.1016/j.jnucmat.2021.152907)". Journal of Nuclear Materials, in press (2021).
+1. T. Echániz, I. González de Arrieta, A. Gil-Muñoz, J. Fernández-Pereda, R. Fuente, M. Klimenkov, G. A. López. "[Infrared emissivity of reduced-activation Eurofer 97 for fusion reactor applications](https://doi.org/10.1016/j.jnucmat.2021.152907)". Journal of Nuclear Materials 549, 152907 (2021).
+2. I. González de Arrieta, L. del Campo, D. De Sousa Meneses. "[Infrared spectroscopy of CeO2 nanoparticles using Bergman’s spectral representation: effects of phonon confinement and lattice strain](https://pubs.rsc.org/en/content/articlelanding/2021/cp/d1cp01259b#!divAbstract)". Physical Chemistry Chemical Physics, in press (2021).
 
 ### 2020
 
-1. I. González de Arrieta, T. Echániz, R. Fuente, J. M. Campillo-Robles, J. M. Igartua, G. A. López. "[Updated measurement method and uncertainty budget for direct emissivity measurements at UPV/EHU](https://doi.org/10.1088/1681-7575/ab84ff)". Metrologia 57, 045002 (2020). Pre-print available at [arXiv: 1910.08315](https://arxiv.org/abs/1910.08315).
+1. I. González de Arrieta, T. Echániz, R. Fuente, J. M. Campillo-Robles, J. M. Igartua, G. A. López. "[Updated measurement method and uncertainty budget for direct emissivity measurements at the University of the Basque Country](https://doi.org/10.1088/1681-7575/ab84ff)". Metrologia 57, 045002 (2020). Pre-print available at [arXiv: 1910.08315](https://arxiv.org/abs/1910.08315).
 2. I. González de Arrieta, L. González-Fernández, E. Risueño, T. Echániz, M. J. Tello. "[Isothermal oxidation kinetics of nitrided Ti-6Al-4V studied by infrared emissivity](https://doi.org/10.1016/j.corsci.2020.108723)". Corrosion Science 173, 108723 (2020).
 3. R. Fuente, T. Echániz, I. González de Arrieta, I. Urcelay-Olabarria, J. M. Igartua, M. J. Tello, G. A. López. "[High accuracy infrared emissivity between 50 and 1000 ᵒC for solar materials characterization](https://doi.org/10.1051/matecconf/202030701043)".  MATEC Web of Conferences 307, 01043 (2020). International Conference on Materials & Energy (ICOME’17 and ICOME’18) 
 4. R. Fuente, T. Echániz, I. González de Arrieta, I. Urcelay-Olabarria, M. J. Tello, G. A. López. "[c-Si PV cells emissivity characterization at low operating temperatures for efficiency management](https://doi.org/10.1051/matecconf/202030701044)". MATEC Web of Conferences 307, 01044 (2020). International Conference on Materials & Energy (ICOME’17 and ICOME’18) 
