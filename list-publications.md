@@ -29,9 +29,7 @@ layout: default
 ### 2018
 
 1. T. Echániz, I. González de Arrieta, R. Fuente, I. Urcelay-Olabarria, E. Risueño, A. Faik, G. A. López, M. J. Tello. "[Sensitivity of thermal emission spectroscopy for the study of structural phase transitions](https://doi.org/10.1016/j.infrared.2018.07.014)". Infrared Physics & Technology 93, 16-19 (2018).
-2. T. Echániz, I. González de Arrieta, R. Fuente, I. Urcelay-Olabarria, G. A. López, J. M. Igartua. "[Emissivity measurements in materials for solar thermal
-energy storage (in Basque)](https://doi.org/10.1387/ekaia.19721)". Ekaia 34, 199-210 (2018).
-3. A. Dan, B. Basu, T. Echániz, I. González de Arrieta, G. A. López, H. C. Barshilia. "[Effects of environmental and operational variability on the spectrally selective properties of W/WAlN/WAlON/Al2O3-based solar absorber coating](https://doi.org/10.1016/j.solmat.2018.04.020)". Solar Energy Materials and Solar Cells 185, 342-350 (2018).
+2. A. Dan, B. Basu, T. Echániz, I. González de Arrieta, G. A. López, H. C. Barshilia. "[Effects of environmental and operational variability on the spectrally selective properties of W/WAlN/WAlON/Al2O3-based solar absorber coating](https://doi.org/10.1016/j.solmat.2018.04.020)". Solar Energy Materials and Solar Cells 185, 342-350 (2018).
 
 
 ## 2017
