@@ -9,6 +9,7 @@ layout: default
 1. T. Echániz, I. González de Arrieta, A. Gil-Muñoz, J. Fernández-Pereda, R. Fuente, M. Klimenkov, G. A. López. "[Infrared emissivity of reduced-activation Eurofer 97 for fusion reactor applications](https://doi.org/10.1016/j.jnucmat.2021.152907)". Journal of Nuclear Materials 549, 152907 (2021).
 2. I. González de Arrieta, L. del Campo, D. De Sousa Meneses. "[Infrared spectroscopy of CeO2 nanoparticles using Bergman’s spectral representation: effects of phonon confinement and lattice strain](https://doi.org/10.1039/D1CP01259B)". Physical Chemistry Chemical Physics 23, 13095 (2021).
 3. I. González de Arrieta, L. González-Fernández, T. Echániz, L. del Campo, D. De Sousa Meneses, G. A. López. "[Small-polaron-induced infrared opacification in rutile TiO2](https://doi.org/10.1063/5.0056081)". Journal of Applied Physics 130, 075105 (2021).
+4. I. González de Arrieta. "[Wien’s Displacement Law and Blackbody Radiation Quartiles](https://doi.org/10.1119/10.0006130)". The Physics Teacher 59, 464 (2021).
 
 ### 2020
 
