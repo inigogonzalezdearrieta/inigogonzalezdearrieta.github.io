@@ -4,6 +4,11 @@ layout: default
 
 ## List of publications
 
+### 2022
+
+1. I. González de Arrieta. "[Beyond the infrared: a centenary of Heinrich Rubens’s death](https://doi.org/10.1140/epjh/s13129-022-00044-x)". European Physical Journal H 47, 11 (2022).
+2. M. Sainz-Menchón, J. Gabirondo-López, I. González de Arrieta, T. Echániz, G. A. López. "[Experimental and numerical study of the emissivity of rolled aluminum](https://doi.org/10.1016/j.infrared.2022.104380)". Infrared Physics & Technology 127, 104380 (2022).
+
 ### 2021
 
 1. T. Echániz, I. González de Arrieta, A. Gil-Muñoz, J. Fernández-Pereda, R. Fuente, M. Klimenkov, G. A. López. "[Infrared emissivity of reduced-activation Eurofer 97 for fusion reactor applications](https://doi.org/10.1016/j.jnucmat.2021.152907)". Journal of Nuclear Materials 549, 152907 (2021).
