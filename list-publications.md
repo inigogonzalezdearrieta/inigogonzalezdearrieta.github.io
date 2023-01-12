@@ -4,6 +4,10 @@ layout: default
 
 ## List of publications
 
+### 2023
+
+1. I. González de Arrieta, C. Blanchard, P. Laboureur, C. Chauveau, C. Genevois, O. Rozenbaum, F. Halter. "[Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation](https://doi.org/10.1016/j.ijheatmasstransfer.2022.123815)". International Journal of Heat and Mass Transfer 203, 123815 (2023).
+
 ### 2022
 
 1. I. González de Arrieta. "[Beyond the infrared: a centenary of Heinrich Rubens’s death](https://doi.org/10.1140/epjh/s13129-022-00044-x)". European Physical Journal H 47, 11 (2022).
