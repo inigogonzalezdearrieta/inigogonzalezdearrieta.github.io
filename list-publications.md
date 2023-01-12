@@ -42,11 +42,11 @@ layout: default
 2. A. Dan, B. Basu, T. Echániz, I. González de Arrieta, G. A. López, H. C. Barshilia. "[Effects of environmental and operational variability on the spectrally selective properties of W/WAlN/WAlON/Al2O3-based solar absorber coating](https://doi.org/10.1016/j.solmat.2018.04.020)". Solar Energy Materials and Solar Cells 185, 342-350 (2018).
 
 
-## 2017
+### 2017
 
 1. I. González de Arrieta, T. Echániz, R. Fuente, L. del Campo, D. De Sousa Meneses, G. A. López, M. J. Tello. "[Mid-infrared optical properties of pyrolytic boron nitride in the 390 - 1050 °C temperature range using spectral emissivity measurements](https://doi.org/10.1016/j.jqsrt.2017.02.016)". Journal of Quantitative Spectroscopy and Radiative Transfer 194, 1-6 (2017).
 
-## 2016
+### 2016
 
 1.  I. González de Arrieta, T. Echániz, R. B. Pérez-Sáez, M. J. Tello. "[Thermo-radiative and optical properties of a cutting tool based on polycrystalline cubic boron nitride (PCBN)](https://doi.org/10.1088/2053-1591/3/4/045904)". Materials Research Express 3, 045904 (2016).
 
