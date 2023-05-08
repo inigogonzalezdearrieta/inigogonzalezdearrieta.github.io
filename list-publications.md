@@ -7,6 +7,7 @@ layout: default
 ### 2023
 
 1. I. González de Arrieta, C. Blanchard, P. Laboureur, C. Chauveau, C. Genevois, O. Rozenbaum, F. Halter. "[Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation](https://doi.org/10.1016/j.ijheatmasstransfer.2022.123815)". International Journal of Heat and Mass Transfer 203, 123815 (2023).
+2. I. González de Arrieta, A. Zaki, A. Canizarès, E. Véron, C. Genevois, L. del Campo, C. Blanchard, O. Rozenbaum. "[Role of structural disorder in the vibrational spectra of sol–gel gamma and delta-Al2O3 nanoparticles](https://doi.org/10.1016/j.saa.2023.122795)". Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 298, 122795 (2023).
 
 ### 2022
 
