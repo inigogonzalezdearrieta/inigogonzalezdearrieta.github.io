@@ -6,13 +6,17 @@ layout: default
 
 ### Memberships
 
-- Member of the [Spanish Royal Physics Society (RSEF)](https://rsef.es/).
-- Member of the [Spanish Materials Society (SOCIEMAT)](https://sociemat.es/).
-- Member of the [Spanish Optical Society (SEDOPTICA)](https://www.sedoptica.es/)
+I am a member of the following scientific societies:
+
+- [Spanish Royal Physics Society (RSEF)](https://rsef.es/).
+- [Spanish Materials Society (SOCIEMAT)](https://sociemat.es/).
+- [Spanish Optical Society (SEDOPTICA)](https://www.sedoptica.es/).
+- [European Optical Society(EOS)](https://www.europeanoptics.org/).
+- [Coblentz Society](https://www.coblentz.org/).
 
 ### Reviewer
 
-I have reviewed manuscripts for the following journals: Measurement, European Journal of Physics, Materials Research Express, International Journal of Applied Glass Science.
+I have reviewed manuscripts for the following journals: Measurement, European Journal of Physics, Materials Research Express, International Journal of Applied Glass Science, RSC Advances, Sustainability, Photonics, Review of Scientific Instruments, Solar Energy, Solar Energy Materials & Solar Cells, Sensors, Applied Physics Letters, Energies.
 
 ### Popular science and science outreach efforts
 
