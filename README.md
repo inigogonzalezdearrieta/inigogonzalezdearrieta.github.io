@@ -7,6 +7,8 @@ I am an Assistant Professor at the [University of the Basque Country (UPV/EHU)](
 - [Full list of scientific publications](./list-publications.md).
 - [Additional aspects of my CV](./other-cv.html).
 - [My interests](./interests.md).
+- [Teaching](./teaching.md)
+- [Outreach initiatives](./outreach.md)
 - [Blog](./blog.md).
 
 ### A relevant research sample
