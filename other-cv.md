@@ -6,9 +6,14 @@ layout: default
 
 ### Previous positions
 
-- 2023:        Postdoc (UPV/EHU).
+- 2023: Postdoc (UPV/EHU).
 - 2020 - 2022: Postdoc (CEMHTI, CNRS Orléans, France).
 - 2016 - 2020: PhD student (UPV/EHU).
+
+### Awards and honors
+
+- Best Science Communication Article in Basque [CAF Elhuyar 2019](https://www.elhuyar.eus/en/site/projects/caf-elhuyar-en/prize-winners).
+- Invitation to the 2023 edition of the [Seven Pines symposium](https://sites.google.com/a/umn.edu/seven-pines/2023?authuser=0)
 
 ### Memberships
 
