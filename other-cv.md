@@ -6,9 +6,9 @@ layout: default
 
 ### Previous positions
 
-2023:        Postdoc (UPV/EHU).
-2020 - 2022: Postdoc (CEMHTI, CNRS Orléans, France).
-2016 - 2020: PhD student (UPV/EHU).
+- 2023:        Postdoc (UPV/EHU).
+- 2020 - 2022: Postdoc (CEMHTI, CNRS Orléans, France).
+- 2016 - 2020: PhD student (UPV/EHU).
 
 ### Memberships
 
