@@ -4,12 +4,16 @@ layout: default
 
 ## List of publications
 
+## 2024
+
+1. I. M. Ermini, I. González de Arrieta, F. Fayon, P. Vespa, D. De Sousa Meneses. "[Static and Kinetic Study of the Structure and Dynamics of Vitreous Silica at High Temperatures by Infrared Emission Spectroscopy](https://doi.org/10.1016/j.jnoncrysol.2023.122797)". Journal of Non-Crystalline Solids 626, 122797 (2024). Preprint available at "[SSRN](http://dx.doi.org/10.2139/ssrn.4596919)".
+
 ### 2023
 
 1. I. González de Arrieta, C. Blanchard, P. Laboureur, C. Chauveau, C. Genevois, O. Rozenbaum, F. Halter. "[Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation](https://doi.org/10.1016/j.ijheatmasstransfer.2022.123815)". International Journal of Heat and Mass Transfer 203, 123815 (2023).
 2. I. González de Arrieta, A. Zaki, A. Canizarès, E. Véron, C. Genevois, L. del Campo, C. Blanchard, O. Rozenbaum. "[Role of structural disorder in the vibrational spectra of sol–gel gamma and delta-Al2O3 nanoparticles](https://doi.org/10.1016/j.saa.2023.122795)". Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 298, 122795 (2023).
 3. T. Guerra, I. González de Arrieta, O. Rozenbaum, C. Blanchard. "[Effective properties of resonant nanoparticle suspensions: impact of the elementary volume shape](https://doi.org/10.1615/RAD-23.200)". Proceedings of the 10th International Symposium on Radiative Transfer, RAD-23 Thessaloniki, Greece, 12–16 June 2023.
-4. I. M. Ermini, I. González de Arrieta, F. Fayon, P. Vespa, D. De Sousa Meneses. "[Static and Kinetic Study of the Structure and Dynamics of Vitreous Silica at High Temperatures by Infrared Emission Spectroscopy](http://dx.doi.org/10.2139/ssrn.4596919)". SSRN preprints.
+4. M. Sainz-Menchón, I. González de Arrieta, A. Zaki, F. Fayon, G. A. López. "[Structural Unit Determination in Silica Nanoparticles Using Infrared Micro-Reflectance Spectroscopy](https://doi.org/10.1177/00037028231218289)". Applied Spectroscopy, in press (2023).
 5. I. M. Ermini, L. Cosson, F. Fayon, I. González De Arrieta, O. Rozenbaum, P. Vespa, D. De Sousa Meneses. "[Development and Application of a Rapid Scan Technique for Emissivity Measurements of Cooled-Down Molten Materials](http://dx.doi.org/10.3390/engproc2023051008)". Engineering Proceedings 51, 8 (2023).
 
 ### 2022
