@@ -13,7 +13,8 @@ layout: default
 ### Awards and honors
 
 - Best Science Communication Article in Basque [CAF Elhuyar 2019](https://www.elhuyar.eus/en/site/projects/caf-elhuyar-en/prize-winners).
-- Invitation to the 2023 edition of the [Seven Pines symposium](https://sites.google.com/a/umn.edu/seven-pines/2023?authuser=0)
+- Invitation to the 2023 edition of the [Seven Pines symposium](https://sites.google.com/a/umn.edu/seven-pines/2023?authuser=0).
+- Outstanding Reviewer Award (Materials Research Express 2020, European Journal of Physics 2021). 
 
 ### Memberships
 
