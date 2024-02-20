@@ -22,7 +22,7 @@ I am a member of the following scientific societies:
 
 - [Spanish Royal Physics Society (RSEF)](https://rsef.es/).
 - [Spanish Optical Society (SEDOPTICA)](https://www.sedoptica.es/).
-- [European Optical Society(EOS)](https://www.europeanoptics.org/).
+- [European Optical Society (EOS)](https://www.europeanoptics.org/).
 - [Coblentz Society](https://www.coblentz.org/).
 
 ### Reviewer
