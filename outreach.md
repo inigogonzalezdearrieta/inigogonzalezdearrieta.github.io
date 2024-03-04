@@ -12,6 +12,6 @@ With the latter article I won the Best Science Communication Article in Basque [
 
 ## Science fairs and public science
 
-I will take part in the Zientzia Astea (Science Week), organized by my university.
+I am an active participant in my university's public-facing initiatives, such as the Zientzia Astea (Science Week), Jornadas de Investigación or Puertas Abiertas (Open Doors).
 
 [back](./README.md)
