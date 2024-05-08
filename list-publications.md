@@ -6,8 +6,9 @@ layout: default
 
 ## 2024
 
-1. I. M. Ermini, I. González de Arrieta, F. Fayon, P. Vespa, D. De Sousa Meneses. "[Static and Kinetic Study of the Structure and Dynamics of Vitreous Silica at High Temperatures by Infrared Emission Spectroscopy](https://doi.org/10.1016/j.jnoncrysol.2023.122797)". Journal of Non-Crystalline Solids 626, 122797 (2024). Preprint available at "[SSRN](http://dx.doi.org/10.2139/ssrn.4596919)".
+1. I. M. Ermini, I. González de Arrieta, F. Fayon, P. Vespa, D. De Sousa Meneses. "[Static and Kinetic Study of the Structure and Dynamics of Vitreous Silica at High Temperatures by Infrared Emission Spectroscopy](https://doi.org/10.1016/j.jnoncrysol.2023.122797)". Journal of Non-Crystalline Solids 626, 122797 (2024). Preprint available at "[SSRN](https://dx.doi.org/10.2139/ssrn.4596919)".
 2. M. Sainz-Menchón, I. González de Arrieta, A. Zaki, F. Fayon, G. A. López. "[Structural Unit Determination in Silica Nanoparticles Using Infrared Micro-Reflectance Spectroscopy](https://doi.org/10.1177/00037028231218289)". Applied Spectroscopy 78, 209 (2024).
+3. I. González de Arrieta, T. Echániz, R. Fuente, G. A. López. "[Angle-Resolved Direct Emissivity Measurements on Unencapsulated Solar Cells for Passive Thermal Control](https://doi.org/https://doi.org/10.1109/JPHOTOV.2024.3372329)". IEEE Journal of Photovoltaics 14, 459 - 465 (2024) 
 
 ### 2023
 
