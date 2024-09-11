@@ -8,7 +8,9 @@ layout: default
 
 1. I. M. Ermini, I. González de Arrieta, F. Fayon, P. Vespa, D. De Sousa Meneses. "[Static and Kinetic Study of the Structure and Dynamics of Vitreous Silica at High Temperatures by Infrared Emission Spectroscopy](https://doi.org/10.1016/j.jnoncrysol.2023.122797)". Journal of Non-Crystalline Solids 626, 122797 (2024). Preprint available at "[SSRN](https://dx.doi.org/10.2139/ssrn.4596919)".
 2. M. Sainz-Menchón, I. González de Arrieta, A. Zaki, F. Fayon, G. A. López. "[Structural Unit Determination in Silica Nanoparticles Using Infrared Micro-Reflectance Spectroscopy](https://doi.org/10.1177/00037028231218289)". Applied Spectroscopy 78, 209 (2024).
-3. I. González de Arrieta, T. Echániz, R. Fuente, G. A. López. "[Angle-Resolved Direct Emissivity Measurements on Unencapsulated Solar Cells for Passive Thermal Control](https://doi.org/https://doi.org/10.1109/JPHOTOV.2024.3372329)". IEEE Journal of Photovoltaics 14, 459 - 465 (2024) 
+3. I. González de Arrieta, T. Echániz, R. Fuente, G. A. López. "[Angle-Resolved Direct Emissivity Measurements on Unencapsulated Solar Cells for Passive Thermal Control](https://doi.org/https://doi.org/10.1109/JPHOTOV.2024.3372329)". IEEE Journal of Photovoltaics 14, 459 - 465 (2024).
+4. I. González de Arrieta. "[Lebedev's experiment and crystallite glass models](https://hal.science/hal-04619032)". Comment.
+5. I.M. Ermini, D. De Sousa Meneses, L. Cosson, I. González de Arrieta, O. Rozenbaum, P. Vespa, F. Fayon. "[Real-time emissivity measurements on solid phase formation and its degree of structural disorder during solidification of SrAl2Si2O8 from molten state](https://doi.org/10.1016/j.infrared.2024.105450)". Infrared Physics & Technology 141, 105450 (2024).
 
 ### 2023
 
