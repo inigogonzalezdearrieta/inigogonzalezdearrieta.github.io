@@ -1,6 +1,6 @@
 ## About me
 
-I am an Assistant Professor at the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/guest/en-home), where I teach Modern Physics and Optics labs. My main research topic is infrared science and technology in general, including both the heat transfer and vibrational spectroscopic aspects of this rich and varied field. I'm also interested in broader topics, such as: energy, applied physics, physics education, and the history of science.
+I am an Assistant Professor at the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/guest/en-home), where I teach Modern Physics and Optics labs. My main research topic is infrared science and technology in general, including both the heat transfer and the vibrational spectroscopic aspects of this rich and varied field. I'm also interested in broader topics, such as: energy, applied physics, physics education, and the history of science.
 
 ### CV outline
 
@@ -24,6 +24,3 @@ I am an Assistant Professor at the [University of the Basque Country (UPV/EHU)](
 [Google Scholar](https://scholar.google.com/citations?user=oRvyMOgAAAAJ&hl=en)
 
 [LinkedIn](https://www.linkedin.com/in/inigo-gonzalez-de-arrieta/)
-
-<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101267467);</script>
-<script async src="//static.getclicky.com/js"></script>
