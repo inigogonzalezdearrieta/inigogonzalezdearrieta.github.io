@@ -1,6 +1,6 @@
 ## About me
 
-I am an Assistant Professor at the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/guest/en-home), where I teach Modern Physics and Optics labs. My main research topic is infrared science and technology in general, including both the heat transfer and the vibrational spectroscopic aspects of this rich and varied field. I'm also interested in broader topics, such as: energy, applied physics, physics education, and the history of science.
+I am an Assistant Professor at the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/guest/en-home), where I teach Modern Physics and Optics labs. My main research topic is infrared science and technology, including both the heat transfer and the vibrational spectroscopic aspects of this rich and varied field. I'm also interested in broader topics, such as: energy, applied physics, physics education, and the history of science.
 
 ### CV outline
 
