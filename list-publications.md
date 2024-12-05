@@ -11,6 +11,7 @@ layout: default
 3. I. González de Arrieta, T. Echániz, R. Fuente, G. A. López. "[Angle-Resolved Direct Emissivity Measurements on Unencapsulated Solar Cells for Passive Thermal Control](https://doi.org/https://doi.org/10.1109/JPHOTOV.2024.3372329)". IEEE Journal of Photovoltaics 14, 459 - 465 (2024).
 4. I. González de Arrieta. "[Lebedev's experiment and crystallite glass models](https://hal.science/hal-04619032)". Comment.
 5. I.M. Ermini, D. De Sousa Meneses, L. Cosson, I. González de Arrieta, O. Rozenbaum, P. Vespa, F. Fayon. "[Real-time emissivity measurements on solid phase formation and its degree of structural disorder during solidification of SrAl2Si2O8 from molten state](https://doi.org/10.1016/j.infrared.2024.105450)". Infrared Physics & Technology 141, 105450 (2024).
+6. I. González de Arrieta, T. Echániz, A. Adibekyan, C. Monte, J. Hollandt, G. A. López. "[Emissivity measurements on noble metals: validation of a free-electron description including the anomalous skin effect](https://doi.org/10.1140/epjp/s13360-024-05819-3)". European Physical Journal Plus 139, 1043 (2024).
 
 ### 2023
 
