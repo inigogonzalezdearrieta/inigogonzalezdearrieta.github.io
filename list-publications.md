@@ -4,6 +4,10 @@ layout: default
 
 ## List of publications
 
+## 2025
+
+1. M. Sainz-Menchón, I. González de Arrieta, T. Echániz,  K. Nader,  M. Insausti, A. Canizarès, O. Rozenbaum, G. A. López"[Quantifying lattice vibrational modes and optical conductivity in mixed magnetite–maghemite nanoparticles](https://doi.org/10.1039/D5CP00503E)". Physical Chemistry Chemical Physics, Advance Article (2025).
+
 ## 2024
 
 1. I. M. Ermini, I. González de Arrieta, F. Fayon, P. Vespa, D. De Sousa Meneses. "[Static and Kinetic Study of the Structure and Dynamics of Vitreous Silica at High Temperatures by Infrared Emission Spectroscopy](https://doi.org/10.1016/j.jnoncrysol.2023.122797)". Journal of Non-Crystalline Solids 626, 122797 (2024). Preprint available at "[SSRN](https://dx.doi.org/10.2139/ssrn.4596919)".
