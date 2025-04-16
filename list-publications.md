@@ -6,7 +6,7 @@ layout: default
 
 ## 2025
 
-1. M. Sainz-Menchón, I. González de Arrieta, T. Echániz,  K. Nader,  M. Insausti, A. Canizarès, O. Rozenbaum, G. A. López"[Quantifying lattice vibrational modes and optical conductivity in mixed magnetite–maghemite nanoparticles](https://doi.org/10.1039/D5CP00503E)". Physical Chemistry Chemical Physics, Advance Article (2025).
+1. M. Sainz-Menchón, I. González de Arrieta, T. Echániz,  K. Nader,  M. Insausti, A. Canizarès, O. Rozenbaum, G. A. López"[Quantifying lattice vibrational modes and optical conductivity in mixed magnetite–maghemite nanoparticles](https://doi.org/10.1039/D5CP00503E)". Physical Chemistry Chemical Physics 27, 8498 (2025).
 
 ## 2024
 
