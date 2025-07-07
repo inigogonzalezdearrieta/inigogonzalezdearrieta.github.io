@@ -7,7 +7,7 @@ layout: default
 ## 2025
 
 1. M. Sainz-Menchón, I. González de Arrieta, T. Echániz,  K. Nader,  M. Insausti, A. Canizarès, O. Rozenbaum, G. A. López. "[Quantifying lattice vibrational modes and optical conductivity in mixed magnetite–maghemite nanoparticles](https://doi.org/10.1039/D5CP00503E)". Physical Chemistry Chemical Physics 27, 8498 (2025).
-2. T. Guerra, C. Sauvan, J.-P. Hugonin, C. Gila-Vilchez, I. González de Arrieta, O. Rozenbaum, C. Blanchard. "[Effective properties of resonant nanoparticle suspensions: Impact of the elementary volume shape and eigenmodes analysis](https://doi.org/10.1016/j.jqsrt.2025.109529)". Journal of Quantitative Spectroscopy and Radiative Transfer, in press (2025).
+2. T. Guerra, C. Sauvan, J.-P. Hugonin, C. Gila-Vilchez, I. González de Arrieta, O. Rozenbaum, C. Blanchard. "[Effective properties of resonant nanoparticle suspensions: Impact of the elementary volume shape and eigenmodes analysis](https://doi.org/10.1016/j.jqsrt.2025.109529)". Journal of Quantitative Spectroscopy and Radiative Transfer 345, 109529 (2025).
 
 ## 2024
 
