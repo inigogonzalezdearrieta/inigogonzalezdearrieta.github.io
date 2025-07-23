@@ -1,6 +1,6 @@
 ## About me
 
-PhD in Physics ([University of the Basque Country UPV/EHU](https://www.ehu.eus/en/web/guest/en-home), 2020). After my PhD, I worked as a post-doctoral fellow at UPV/EHU and CRNS Orléans (France), before securing an Assistant Professor position at UPV/EHU on September 2023. Currently, I'm teaching Quantum Physics, Modern Physics, and Optics labs. My main research topic is infrared science and technology, including both the heat transfer and the vibrational spectroscopic aspects of this rich field. I’m also interested in broader topics, such as: energy, applied physics, physics education, and the history of science.
+PhD in Physics ([University of the Basque Country UPV/EHU](https://www.ehu.eus/en/web/guest/en-home), 2020). After my PhD, I worked as a post-doctoral fellow at UPV/EHU and CRNS Orléans (France), before securing an Assistant Professor position at UPV/EHU on September 2023. Currently, I'm teaching Quantum Physics, Modern Physics, and Optics labs. My main research topic is infrared science and technology, including both the heat transfer and the vibrational spectroscopic aspects of this rich field. I’m also interested in broader topics, such as: materials for energy, condensed matter physics, physics education, and the history of science.
 
 ### CV outline
 
