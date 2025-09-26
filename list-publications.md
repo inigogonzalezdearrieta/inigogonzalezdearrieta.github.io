@@ -4,14 +4,14 @@ layout: default
 
 ## List of publications
 
-## 2025
+### 2025
 
 1. M. Sainz-Menchón, I. González de Arrieta, T. Echániz,  K. Nader,  M. Insausti, A. Canizarès, O. Rozenbaum, G. A. López. "[Quantifying lattice vibrational modes and optical conductivity in mixed magnetite–maghemite nanoparticles](https://doi.org/10.1039/D5CP00503E)". Physical Chemistry Chemical Physics 27, 8498 (2025).
 2. T. Guerra, C. Sauvan, J.-P. Hugonin, C. Gila-Vilchez, I. González de Arrieta, O. Rozenbaum, C. Blanchard. "[Effective properties of resonant nanoparticle suspensions: Impact of the elementary volume shape and eigenmodes analysis](https://doi.org/10.1016/j.jqsrt.2025.109529)". Journal of Quantitative Spectroscopy and Radiative Transfer 345, 109529 (2025).
 3. J. Gabirondo-López, I. González De Arrieta, I. Arredondo, G. A. López, K. Anhalt, J. M. Igartua. "[Framework for Experimental Results (fer): A foundation for FAIR-compliant reporting of traceable data](https://doi.org/10.1109/TIM.2025.3588920)". IEEE Transactions on Instrumentation and Measurement 74, 1506712 (2025).
 4. I. González de Arrieta, T. Echániz, E. B. Rubin, K. M. Chung, R. Chen, G. A. López. "[AZO-coated refractory nanoneedles as ultra-black wide-angle solar absorbers](https://doi.org/10.1016/j.solmat.2025.113840)". Solar Energy Materials and Solar Cells 293, 113840 (2025).
 
-## 2024
+### 2024
 
 1. I. M. Ermini, I. González de Arrieta, F. Fayon, P. Vespa, D. De Sousa Meneses. "[Static and Kinetic Study of the Structure and Dynamics of Vitreous Silica at High Temperatures by Infrared Emission Spectroscopy](https://doi.org/10.1016/j.jnoncrysol.2023.122797)". Journal of Non-Crystalline Solids 626, 122797 (2024). Preprint available at "[SSRN](https://dx.doi.org/10.2139/ssrn.4596919)".
 2. M. Sainz-Menchón, I. González de Arrieta, A. Zaki, F. Fayon, G. A. López. "[Structural Unit Determination in Silica Nanoparticles Using Infrared Micro-Reflectance Spectroscopy](https://doi.org/10.1177/00037028231218289)". Applied Spectroscopy 78, 209 (2024).
