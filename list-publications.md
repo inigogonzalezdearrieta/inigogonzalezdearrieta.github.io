@@ -10,6 +10,7 @@ layout: default
 2. T. Guerra, C. Sauvan, J.-P. Hugonin, C. Gila-Vilchez, I. González de Arrieta, O. Rozenbaum, C. Blanchard. "[Effective properties of resonant nanoparticle suspensions: Impact of the elementary volume shape and eigenmodes analysis](https://doi.org/10.1016/j.jqsrt.2025.109529)". Journal of Quantitative Spectroscopy and Radiative Transfer 345, 109529 (2025).
 3. J. Gabirondo-López, I. González De Arrieta, I. Arredondo, G. A. López, K. Anhalt, J. M. Igartua. "[Framework for Experimental Results (fer): A foundation for FAIR-compliant reporting of traceable data](https://doi.org/10.1109/TIM.2025.3588920)". IEEE Transactions on Instrumentation and Measurement 74, 1506712 (2025).
 4. I. González de Arrieta, T. Echániz, E. B. Rubin, K. M. Chung, R. Chen, G. A. López. "[AZO-coated refractory nanoneedles as ultra-black wide-angle solar absorbers](https://doi.org/10.1016/j.solmat.2025.113840)". Solar Energy Materials and Solar Cells 293, 113840 (2025).
+5. M. Sainz-Menchón, I. González de Arrieta, T. Echániz, G. A. López. "[Permittivity determination of inorganic nanoparticles by ATR spectroscopy: Comparison with reflectance techniques and limitations](https://doi.org/10.1016/j.rechem.2025.102920)". Results in Chemistry 18, 102920 (2025).
 
 ### 2024
 
