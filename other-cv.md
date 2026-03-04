@@ -22,8 +22,9 @@ I am a member of the following scientific societies:
 
 - [Spanish Royal Physics Society (RSEF)](https://rsef.es/).
 - [Spanish Optical Society (SEDOPTICA)](https://www.sedoptica.es/).
-- [European Optical Society (EOS)](https://www.europeanoptics.org/).
 - [Coblentz Society](https://www.coblentz.org/).
+
+Moreover, I am the head of the Physics section of the [Basque Summer University (UEU)](https://www.ueu.eus).
 
 ### Reviewer
 
