@@ -4,6 +4,10 @@ layout: default
 
 ## List of publications
 
+### 2026
+
+1. J. Gabirondo-López, M. Sainz-Menchón, I. Tolosa-Lecea, I. González de Arrieta, T. Echániz, I. Urcelay-Olabarria, I. López-Ferreño, R. Fuente, G. A. López, I. Arredondo, J. M. Igartua. "[EKHI: an open database of optical and thermal radiative properties of solid materials](https://doi.org/10.1038/s41597-026-07083-9)". Scientific Data (2026).
+
 ### 2025
 
 1. M. Sainz-Menchón, I. González de Arrieta, T. Echániz,  K. Nader,  M. Insausti, A. Canizarès, O. Rozenbaum, G. A. López. "[Quantifying lattice vibrational modes and optical conductivity in mixed magnetite–maghemite nanoparticles](https://doi.org/10.1039/D5CP00503E)". Physical Chemistry Chemical Physics 27, 8498 (2025).
