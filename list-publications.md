@@ -6,7 +6,8 @@ layout: default
 
 ### 2026
 
-1. J. Gabirondo-López, M. Sainz-Menchón, I. Tolosa-Lecea, I. González de Arrieta, T. Echániz, I. Urcelay-Olabarria, I. López-Ferreño, R. Fuente, G. A. López, I. Arredondo, J. M. Igartua. "[EKHI: an open database of optical and thermal radiative properties of solid materials](https://doi.org/10.1038/s41597-026-07083-9)". Scientific Data (2026).
+1. J. Gabirondo-López, M. Sainz-Menchón, I. Tolosa-Lecea, I. González de Arrieta, T. Echániz, I. Urcelay-Olabarria, I. López-Ferreño, R. Fuente, G. A. López, I. Arredondo, J. M. Igartua. "[EKHI: an open database of optical and thermal radiative properties of solid materials](https://doi.org/10.1038/s41597-026-07083-9)". Scientific Data 13, 740 (2026).
+2. P. Poredoš, G. Silva-Oelker, I. González de Arrieta, G. A. López, D. J. Trajkovski, H. Marangattil Wilson, A. Y. M. Ali, J. Xu, C. Wang, T. Žižak, E. Zavrl, C. Arkar, S. Medved, S. Domjan, J. Jaramillo Fernandez, R. Wang. "[From flat to structured: geometry-driven dual-mode radiative emitters for simultaneous hotspot cooling and water harvesting](https://doi.org/10.1039/d6ee04674f)". Energy & Environmental Science 19, 7064 (2026).
 
 ### 2025
 
