@@ -12,9 +12,9 @@ PhD in Physics ([University of the Basque Country UPV/EHU](https://www.ehu.eus/e
 
 ### Latest research
 
-1. M. Sainz-Menchón, I. González de Arrieta, T. Echániz, G. A. López. "[Permittivity determination of inorganic nanoparticles by ATR spectroscopy: Comparison with reflectance techniques and limitations](https://doi.org/10.1016/j.rechem.2025.102920)". Results in Chemistry 18, 102920 (2025).
-2. I. González de Arrieta, T. Echániz, E. B. Rubin, K. M. Chung, R. Chen, G. A. López. "[AZO-coated refractory nanoneedles as ultra-black wide-angle solar absorbers](https://doi.org/10.1016/j.solmat.2025.113840)". Solar Energy Materials and Solar Cells 293, 113840 (2025).
-3. J. Gabirondo-López, I. González De Arrieta, I. Arredondo, G. A. López, K. Anhalt, J. M. Igartua. "[Framework for Experimental Results (fer): A foundation for FAIR-compliant reporting of traceable data](https://doi.org/10.1109/TIM.2025.3588920)". IEEE Transactions on Instrumentation and Measurement 74, 1506712 (2025).
+1. J. Gabirondo-López, M. Sainz-Menchón, I. Tolosa-Lecea, I. González de Arrieta, T. Echániz, I. Urcelay-Olabarria, I. López-Ferreño, R. Fuente, G. A. López, I. Arredondo, J. M. Igartua. "[EKHI: an open database of optical and thermal radiative properties of solid materials](https://doi.org/10.1038/s41597-026-07083-9)". Scientific Data 13, 740 (2026).
+2. P. Poredoš, G. Silva-Oelker, I. González de Arrieta, G. A. López, D. J. Trajkovski, H. Marangattil Wilson, A. Y. M. Ali, J. Xu, C. Wang, T. Žižak, E. Zavrl, C. Arkar, S. Medved, S. Domjan, J. Jaramillo Fernandez, R. Wang. "[From flat to structured: geometry-driven dual-mode radiative emitters for simultaneous hotspot cooling and water harvesting](https://doi.org/10.1039/d6ee04674f)". Energy & Environmental Science 19, 7064 (2026).
+3. M. Sainz-Menchón, I. González de Arrieta, T. Echániz, G. A. López. "[Permittivity determination of inorganic nanoparticles by ATR spectroscopy: Comparison with reflectance techniques and limitations](https://doi.org/10.1016/j.rechem.2025.102920)". Results in Chemistry 18, 102920 (2025).
 
 ### Academic social media
 
